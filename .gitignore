@@ -1,0 +1,20 @@
+/.idea/
+/.gradle/
+/Web Quiz Engine/task/build/
+/Web Quiz Engine/task/out/
+/gradle/
+/Web Quiz Engine/User authorization/
+/Web Quiz Engine/Solving a simple quiz/
+/Web Quiz Engine/Moving quizzes to DB/
+/Web Quiz Engine/Making quizzes more interesting/
+/Web Quiz Engine/Lots of quizzes/
+/Web Quiz Engine/Advanced queries/
+/Web Quiz Engine/lesson-info.yaml
+/Web Quiz Engine/quizdb.mv.db
+/course-info.yaml
+/course-remote-info.yaml
+/gradlew
+/gradlew.bat
+*.html
+*.yaml
+*.class
